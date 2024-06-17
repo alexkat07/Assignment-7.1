@@ -8,7 +8,7 @@
 
             
 
-            for (int i = 0; i < myArray.Length; i++) 
+            for (int i = 0; i < myArray.Length-1; i++) 
             {
                 int j = i + 1;
                 int lowestNumber = myArray[i];
